@@ -9,4 +9,4 @@ A simple console-based Student Management System built in Java.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/11srusti/Student-Management-System.git
